@@ -20,7 +20,9 @@ const DetailPartScreen = ({ navigation, route }) => {
 	};
 
 	const decrement = () => {
-		setQuantity((prevState) => prevState - 1);
+		if (quantity > 1) {
+			setQuantity((prevState) => prevState - 1);
+		}
 	};
 
 	return (
@@ -104,6 +106,7 @@ export default DetailPartScreen;
 const styles = StyleSheet.create({
 	container: {
 		flex: 1,
+		backgroundColor: Colors.white,
 	},
 	iconWrapper: {
 		flexDirection: "row",
@@ -122,13 +125,17 @@ const styles = StyleSheet.create({
 	},
 	textContainer: {
 		padding: 20,
+		backgroundColor: Colors.light,
+		borderTopRightRadius: 50,
+		borderTopLeftRadius: 50,
+		marginTop: -40,
 	},
 	productText: {
 		fontFamily: "boldText",
 		color: Colors.primary,
 		textAlign: "center",
 		fontSize: 18,
-		marginBottom: 10,
+		marginVertical: 20,
 	},
 	headerText: {
 		fontFamily: "regularText",
@@ -139,7 +146,7 @@ const styles = StyleSheet.create({
 	},
 	subText: {
 		textAlign: "justify",
-		lineHeight: 25,
+		lineHeight: 30,
 		paddingVertical: 10,
 		fontFamily: "regularText",
 		color: Colors.gray,
@@ -155,6 +162,7 @@ const styles = StyleSheet.create({
 		flexDirection: "row",
 		padding: 10,
 		flex: 1,
+		marginTop: -20,
 	},
 	priceWrapper: {
 		flex: 1,

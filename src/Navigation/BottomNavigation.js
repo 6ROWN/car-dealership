@@ -6,6 +6,7 @@ import InventoryScreen from "../screen/InventoryScreen";
 import SettingScreen from "../screen/SettingScreen";
 import { Ionicons, MaterialIcons } from "@expo/vector-icons";
 import Colors from "../utilities/Colors";
+import NotificationScreen from "../screen/NotificationScreen";
 
 const BottomNavigation = () => {
 	const Tab = createBottomTabNavigator();
@@ -43,8 +44,8 @@ const BottomNavigation = () => {
 				}}
 			/>
 			<Tab.Screen
-				name="something"
-				component={HomeScreen}
+				name="notification"
+				component={NotificationScreen}
 				options={{
 					tabBarBadge: 3,
 					tabBarBadgeStyle: { backgroundColor: Colors.secondary },
@@ -58,7 +59,7 @@ const BottomNavigation = () => {
 				}}
 			/>
 			<Tab.Screen
-				name="somethings"
+				name="profileSetting"
 				component={SettingScreen}
 				options={{
 					tabBarIcon: ({ color }) => (

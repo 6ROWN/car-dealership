@@ -6,6 +6,7 @@ import { useFonts } from "expo-font";
 import BottomNavigation from "./src/Navigation/BottomNavigation";
 import DetailScreen from "./src/screen/DetailScreen";
 import DetailPartScreen from "./src/screen/DetailPartScreen";
+import EditProfile from "./src/screen/EditProfile";
 export default function App() {
 	const [loaded] = useFonts({
 		boldText: require("./assets/fonts/Montserrat-Bold.ttf"),
@@ -24,6 +25,7 @@ export default function App() {
 				<stack.Screen name="home" component={BottomNavigation} />
 				<stack.Screen name="Details" component={DetailScreen} />
 				<stack.Screen name="PartDetails" component={DetailPartScreen} />
+				<stack.Screen name="EditProfile" component={EditProfile} />
 			</stack.Navigator>
 		</NavigationContainer>
 	);

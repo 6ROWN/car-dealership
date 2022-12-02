@@ -1,3 +1,4 @@
+import React from "react";
 import {
 	StyleSheet,
 	Text,
@@ -7,7 +8,6 @@ import {
 	ImageBackground,
 	TouchableOpacity,
 } from "react-native";
-import React from "react";
 import {
 	Ionicons,
 	Entypo,
@@ -16,6 +16,7 @@ import {
 } from "@expo/vector-icons";
 import Colors from "../utilities/Colors";
 import SecondaryButton from "../components/SecondaryButton";
+
 const DetailScreen = ({ navigation, route }) => {
 	const carInfo = route.params;
 	return (
@@ -172,7 +173,7 @@ const DetailScreen = ({ navigation, route }) => {
 			</View>
 
 			<View style={styles.btnContainer}>
-				<SecondaryButton title="BUY" />
+				<SecondaryButton title="TEST DRIVE" />
 			</View>
 		</ScrollView>
 	);

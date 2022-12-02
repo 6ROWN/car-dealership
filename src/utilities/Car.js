@@ -27,7 +27,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -53,7 +53,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -79,7 +79,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -104,7 +104,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 		],
@@ -134,7 +134,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -161,7 +161,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -188,7 +188,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -215,7 +215,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 		],
@@ -248,7 +248,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -275,7 +275,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -302,7 +302,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -329,7 +329,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 		],
@@ -362,7 +362,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -389,7 +389,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -416,7 +416,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -443,7 +443,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 		],
@@ -477,7 +477,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -504,7 +504,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -531,7 +531,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -558,7 +558,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 		],
@@ -591,7 +591,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -618,7 +618,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -645,7 +645,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -672,7 +672,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 		],
@@ -705,7 +705,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -732,7 +732,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -759,7 +759,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 			{
@@ -786,7 +786,7 @@ export default [
 					imageUrl3:
 						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/gallery/interior/BMW-MY23-X1-Gallery-17-v2.jpg",
 					imageUrl4:
-						"https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/x1/overview/desktop/BMW-MY23-X1-SafetyTechnology-Desktop-v2.jpg",
+						"https://www.bmwusa.com/content/dam/bmwusa/common/year-end-sales-event/2022/desktop/BMW-YEE22-X5-03-Desktop.jpg",
 				},
 			},
 		],

@@ -4,7 +4,7 @@ import Slider from "../components/Slider";
 
 const OnboardScreen = () => {
 	return (
-		<View style={{ flex: 1 }}>
+		<View style={styles.container}>
 			<StatusBar hidden />
 			<Slider />
 		</View>

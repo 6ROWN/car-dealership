@@ -10,14 +10,14 @@ const SettingScreen = ({ navigation }) => {
 				<TouchableOpacity onPress={() => navigation.goBack()}>
 					<Ionicons
 						name="chevron-back"
-						size={24}
+						size={30}
 						color={Colors.primary}
 					/>
 				</TouchableOpacity>
 				<TouchableOpacity>
 					<Entypo
 						name="dots-three-vertical"
-						size={24}
+						size={30}
 						color={Colors.primary}
 					/>
 				</TouchableOpacity>
@@ -32,7 +32,7 @@ const SettingScreen = ({ navigation }) => {
 				/>
 				<TouchableOpacity
 					style={styles.editIconWrapper}
-					onPress={() => ""}
+					onPress={() => navigation.navigate("EditProfile")}
 				>
 					<MaterialCommunityIcons
 						name="account-edit"
@@ -45,6 +45,7 @@ const SettingScreen = ({ navigation }) => {
 				<Text style={styles.leadText}> Gianna Davidson</Text>
 				<Text style={styles.emailText}>gdavidson24@gmail.com</Text>
 				<Text style={styles.emailText}>San Diego, USA</Text>
+				<Text style={styles.emailText}>+1 5454 2559</Text>
 			</View>
 		</View>
 	);
@@ -55,6 +56,7 @@ export default SettingScreen;
 const styles = StyleSheet.create({
 	container: {
 		flex: 1,
+		backgroundColor: Colors.light,
 	},
 	statusBar: {
 		flexDirection: "row",
@@ -68,6 +70,8 @@ const styles = StyleSheet.create({
 		borderRadius: 125,
 		borderWidth: 5,
 		borderColor: Colors.primary,
+		flex: 1,
+		marginVertical: 30,
 	},
 	image: {
 		height: "100%",
@@ -86,21 +90,27 @@ const styles = StyleSheet.create({
 		position: "absolute",
 		right: 15,
 		bottom: 0,
+		marginVertical: 10,
 	},
 	textContent: {
 		padding: 20,
 		alignItems: "center",
+		backgroundColor: Colors.primary,
+		flex: 1,
+		borderTopRightRadius: 50,
+		borderTopLeftRadius: 50,
 	},
 	leadText: {
 		fontFamily: "boldText",
-		color: Colors.primary,
+		color: Colors.white,
 		fontSize: 18,
+		paddingVertical: 20,
 	},
 	emailText: {
-		marginVertical: 10,
+		marginVertical: 15,
 		fontStyle: "italic",
 		fontFamily: "regularText",
-		color: Colors.gray,
+		color: Colors.light,
 		fontSize: 15,
 	},
 });

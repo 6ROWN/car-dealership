@@ -4,7 +4,7 @@ import Colors from "../utilities/Colors";
 
 const SecondaryButton = ({ pressHandler, title }) => {
 	return (
-		<TouchableOpacity style={styles.button}>
+		<TouchableOpacity style={styles.button} onPress={pressHandler}>
 			<Text style={styles.btnText}>{title}</Text>
 		</TouchableOpacity>
 	);

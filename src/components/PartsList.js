@@ -14,12 +14,7 @@ const PartsList = ({ item }) => {
 			<Image
 				source={{ uri: `${item.image}` }}
 				resizeMode="stretch"
-				style={{
-					height: 120,
-					width: "100%",
-					padding: 10,
-					borderRadius: 20,
-				}}
+				style={styles.image}
 			/>
 			<View>
 				<Text style={styles.productTitle}>{item.product}</Text>
@@ -40,6 +35,7 @@ const styles = StyleSheet.create({
 		backgroundColor: Colors.light,
 		margin: 10,
 	},
+	image: { height: 120, width: "100%", padding: 10, borderRadius: 10 },
 	productTitle: {
 		fontFamily: "boldText",
 		color: Colors.primary,
