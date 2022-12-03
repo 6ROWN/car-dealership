@@ -28,7 +28,7 @@ const HomeScreen = ({ navigation }) => {
 
 	return (
 		<View style={styles.container}>
-			<StatusBar auto />
+			<StatusBar hidden={false} />
 			<View style={styles.info}>
 				<View style={styles.location}>
 					<Ionicons

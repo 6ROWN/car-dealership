@@ -118,9 +118,10 @@ export default NotificationScreen;
 
 const styles = StyleSheet.create({
 	container: {
-		padding: 20,
+		padding: 25,
 	},
 	statusBar: {
+		paddingTop: 10,
 		flexDirection: "row",
 		justifyContent: "space-between",
 		alignItems: "center",

@@ -2,7 +2,6 @@ import {
 	StyleSheet,
 	Text,
 	View,
-	Image,
 	ImageBackground,
 	TouchableOpacity,
 } from "react-native";
@@ -32,7 +31,7 @@ const DetailPartScreen = ({ navigation, route }) => {
 				resizeMode="cover"
 				style={styles.image}
 			>
-				<View style={styles.iconWrapper}>
+				<View style={[styles.iconWrapper, { paddingTop: 30 }]}>
 					<TouchableOpacity
 						style={styles.iconContent}
 						onPress={() => navigation.goBack()}
@@ -64,7 +63,6 @@ const DetailPartScreen = ({ navigation, route }) => {
 			<View style={styles.checkoutContainer}>
 				<View style={styles.priceWrapper}>
 					<Text style={styles.price}>
-						{" "}
 						$ {(parseFloat(item.price) * quantity).toFixed(2)}
 					</Text>
 				</View>

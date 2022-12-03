@@ -183,7 +183,8 @@ export default DetailScreen;
 
 const styles = StyleSheet.create({
 	container: {
-		padding: 10,
+		paddingHorizontal: 10,
+		paddingTop: 30,
 	},
 	flexHorizontal: {
 		flexDirection: "row",

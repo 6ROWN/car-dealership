@@ -10,14 +10,14 @@ const SettingScreen = ({ navigation }) => {
 				<TouchableOpacity onPress={() => navigation.goBack()}>
 					<Ionicons
 						name="chevron-back"
-						size={30}
+						size={24}
 						color={Colors.primary}
 					/>
 				</TouchableOpacity>
 				<TouchableOpacity>
 					<Entypo
 						name="dots-three-vertical"
-						size={30}
+						size={24}
 						color={Colors.primary}
 					/>
 				</TouchableOpacity>
@@ -61,7 +61,8 @@ const styles = StyleSheet.create({
 	statusBar: {
 		flexDirection: "row",
 		justifyContent: "space-between",
-		padding: 20,
+		paddingHorizontal: 10,
+		paddingTop: 40,
 	},
 	imageContainer: {
 		height: 250,
